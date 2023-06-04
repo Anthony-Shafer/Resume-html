@@ -1,4 +1,4 @@
-# Resume-html For Data nerds 
+<!-- # Resume-html For Data nerds  -->
 # Resume Writing Guide
 
 ![Resume Writing Guide](https://example.com/resume-guide.jpg)
