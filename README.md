@@ -23,7 +23,7 @@ Welcome to the Resume Writing Guide repository! This repository is designed to p
 
 ## Introduction to Resume Writing
 
-In this section, you will find an overview of the importance of a well-crafted resume, the purpose it serves, and the key elements to consider while creating one. You'll also gain insights into the dos and don'ts of resume writing to make a positive first impression.
+In this section, you will find an overview of the importance of a well-crafted resume, the purpose it serves, and the key elements to consider while creating one. You'll also gain insights into the `dos` and `don'ts` of resume writing to make a positive first impression.
 
 ## Resume Structure and Formatting
 
