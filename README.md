@@ -27,7 +27,7 @@ In this section, you will find an overview of the importance of a well-crafted r
 
 ## Resume Structure and Formatting
 
-Discover the essential sections that make up a resume and learn how to format them effectively. This section covers guidelines for organizing your contact information, creating a visually appealing layout, and selecting appropriate fonts and styles.
+Discover the essential sections that make up a resume and learn how to format them effectively. This section covers guidelines for organizing your contact information, creating a visually appealing *layout*, and selecting appropriate fonts and styles.
 
 ## Choosing the Right Resume Type
 
